@@ -1,8 +1,10 @@
 # Radarapu-Leela-Priyanka-TANDEMLOOP
 TANDEMLOOP Coding Questions
+
 INSTALL IDE(Integration Development Environment) on System or Visual Studio Code.
 Add setup to it and give permissions to it.
 Now you can run the programs.
+
 Program1:
 #Calculator Program
 I have taken three parameters in constructor i.e. 2 values and one is for operation purpose so it is taken as string .for the reference purpose i taken self and i used built in String operation lower() to convert input into lower.
