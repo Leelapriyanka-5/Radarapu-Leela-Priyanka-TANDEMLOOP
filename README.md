@@ -1,6 +1,8 @@
 # Radarapu-Leela-Priyanka-TANDEMLOOP
 TANDEMLOOP Coding Questions
 
+PYTHON PROGRAMMING
+
 INSTALL IDE(Integration Development Environment) on System or Visual Studio Code.
 Add setup to it and give permissions to it.
 Now you can run the programs.
